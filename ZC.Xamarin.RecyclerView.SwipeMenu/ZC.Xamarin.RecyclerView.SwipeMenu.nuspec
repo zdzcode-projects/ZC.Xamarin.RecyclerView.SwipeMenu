@@ -3,11 +3,11 @@
   <metadata>
     <id>ZC.Xamarin.RecyclerView.SwipeMenu</id>
     <version>5.4.7</version>
-    <authors>ZDZCode</authors>
+    <authors>ZDZCode</authors>  
     <licenseUrl>https://github.com/zdzcode-projects/ZC.Xamarin.RecyclerView.SwipeMenu/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/zdzcode-projects/ZC.Xamarin.RecyclerView.SwipeMenu</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>Xamarin.Android binding to https://github.com/TUBB/SwipeMenu</description>
     <tags>Xamarin, Android, Binding, RecyclerView, Swipe Menu, Context</tags>
     <dependencies>
       <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="23.4.0.1" />
