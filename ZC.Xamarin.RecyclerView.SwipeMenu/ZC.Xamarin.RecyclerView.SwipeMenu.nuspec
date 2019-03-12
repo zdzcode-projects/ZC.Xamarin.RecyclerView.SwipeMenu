@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>ZC.Xamarin.RecyclerView.SwipeMenu</id>
-    <version>5.4.7.1</version>
+    <version>5.4.7.2</version>
     <authors>ZDZCode</authors>  
     <licenseUrl>https://github.com/zdzcode-projects/ZC.Xamarin.RecyclerView.SwipeMenu/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/zdzcode-projects/ZC.Xamarin.RecyclerView.SwipeMenu</projectUrl>
